@@ -35,7 +35,7 @@ let condition=true;
                     break;
              case "Exit":
              condition = false;
-            console.log(chalk.red.bold("Exiting..."));
+            console.log(chalk.red.bold("Exiting...!"));
                     break;
                 
         }
